@@ -14,21 +14,6 @@ To run the code in this project, you need:
 - Python 3.7+
 - NumPy
 
-## Usage
-
-Clone this repository and run the provided notebook to explore the implementation:
-
-```bash
-git clone https://github.com/surabhik26/neural-networks-from-scratch.git
-cd neural-networks-from-scratch
-```
-
-Open the Jupyter Notebook:
-
-```bash
-jupyter notebook Neural-Networks-from-Scratch.ipynb
-```
-
 ## Project Overview
 
 The notebook includes:
