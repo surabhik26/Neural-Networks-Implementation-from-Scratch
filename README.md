@@ -19,7 +19,7 @@ To run the code in this project, you need:
 Clone this repository and run the provided notebook to explore the implementation:
 
 ```bash
-git clone https://github.com/yourusername/neural-networks-from-scratch.git
+git clone https://github.com/surabhik26/neural-networks-from-scratch.git
 cd neural-networks-from-scratch
 ```
 
@@ -37,10 +37,6 @@ The notebook includes:
 2. **Activation Functions:** Implementation and visualization of the Sigmoid function.
 3. **Forward Propagation:** Step-by-step computations.
 4. **Backpropagation:** Manual derivation and implementation of the learning process.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
