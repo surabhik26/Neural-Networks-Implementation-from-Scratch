@@ -22,8 +22,3 @@ The notebook includes:
 2. **Activation Functions:** Implementation and visualization of the Sigmoid function.
 3. **Forward Propagation:** Step-by-step computations.
 4. **Backpropagation:** Manual derivation and implementation of the learning process.
-
-## Acknowledgments
-
-- Inspiration from foundational AI and ML courses.
-- Special thanks to the open-source community for their tutorials and resources.
